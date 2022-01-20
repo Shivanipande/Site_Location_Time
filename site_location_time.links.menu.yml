@@ -1,0 +1,5 @@
+site_location_time.admin:
+  title: 'Site Switch Popup Configuration'
+  route_name: site_location_time.admin_settings
+  description: 'Config form for displaying time and location.'
+  parent: system.admin_config_system
